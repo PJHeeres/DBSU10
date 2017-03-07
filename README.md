@@ -12,8 +12,8 @@ Following are some Input (BPM) related to some more useful ranges per topic. Als
 
 |INPUT RANGE|OUTPUT USEFUL|Group 2 Caffee|Group 3 Pizza|Group 4 Tweetbot|Group 5 Bodytemp|Group 6 Gestures|Group 7 Clock|
 |------| ------|------ | ------|------|------|------|------|-------| 
-|<0    | Dead | Caffee would not help  | 
-|0-30  | Critial health issue  | 
+|<0    | Dead | Coffee would not help  | 
+|0-30  | Critial health issue  | Call 112 instead of coffee |
 |30-50 | Sleeping  | Wait for a while, coffee needed soon | 
 |50-80 | Sad or Inactive   | Coffee needed | 
 |80-100| Passive nuteral    | Coffee needed |  
