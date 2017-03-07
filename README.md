@@ -14,7 +14,7 @@ Following are some Input (BPM) related to some more useful ranges per topic:
 |------|------|
 |<0    | Dead | 
 |0-30  | Critial health issue  | 
-|30-50 | Sleeping or Sad   |
-|50-80 |
+|30-50 | Sleeping  |
+|50-80 | Sad or Inactive   | 
 |80-100| Passive nuteral    |
 |>100  | Physically active |
