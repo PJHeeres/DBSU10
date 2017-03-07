@@ -10,7 +10,7 @@ This repository is meant for collaborators that want to use a heartbeat sensing 
 The module does not only constantly sent heartbeat data. It makes more sense of data by sending useful data for different purposes.
 Following are some Input (BPM) related to some more useful ranges per topic:
 
-|INPUT RANGE|OUTPUT USEFUL|
+|INPUT RANGE|OUTPUT USEFUL|            |Group 2|Group 3|Group 4|Group 5|Group 6|Group 7|
 |------|------|
 |<0    | Dead | 
 |0-30  | Critial health issue  | 
