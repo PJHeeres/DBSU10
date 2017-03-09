@@ -7,7 +7,7 @@ Eindhoven University of Technology [TU/e]
 This repository is meant for collaborators that want to use a heartbeat sensing module for connected products.
 
 ## MODULE CONCEPT
-The module does not only constantly sent heartbeat data. It makes more sense of data by sending useful data for different purposes.
+The module does not constantly sent heartbeat data. It makes more sense of data by sending useful data for different purposes. 
 Following are some Input (BPM) related to some more useful ranges per topic. Also the relevance in our opinion to other groups is mapped.
 
 |INPUT RANGE|OUTPUT USEFUL|Group 2 Caffee|tag|Group 3 Pizza|tag|Group 5 Bodytemp|tag| Group 7 Clock|tag| Other Groups | tag|
