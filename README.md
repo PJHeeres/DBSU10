@@ -10,7 +10,7 @@ This repository is meant for collaborators that want to use a heartbeat sensing 
 The module does not only constantly sent heartbeat data. It makes more sense of data by sending useful data for different purposes.
 Following are some Input (BPM) related to some more useful ranges per topic. Also the relevance in our opinion to other groups is mapped.
 
-|INPUT RANGE|OUTPUT USEFUL|Group 2 Caffee|Group 3 Pizza|Group 4 Tweetbot|Group 5 Bodytemp|Group 6 Gestures|Group 7 Clock|
+|INPUT RANGE|OUTPUT USEFUL|Group 2 Caffee|tag|Group 3 Pizza|tag|Group 4 Tweetbot|tag|Group 5 Bodytemp|tag|Group 6 Gestures|tag| Group 7 Clock|tag|
 |------| ------|------ | ------|------|------|------|------|-------| 
 |<0    | Dead | Coffee would not help  | Pizza will maybe cheer up loved ones| 
 |0-30  | Critial health issue  | Call 112 instead of coffee; -  | Call 112 instead of pizza |
