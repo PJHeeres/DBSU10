@@ -16,5 +16,5 @@ Following are some Input (BPM) related to some more useful ranges per topic. Als
 |0-30  | Critial health issue  | Call 112 instead of coffee  |-| Call 112 instead of pizza | -| Heartrate |...bpm | Critial health issue | Heartrate |...bpm |
 |30-50 | Sleeping  | Wait for a while, coffee needed soon | sleeping |Pizza as breakfast?| sleeping |Heartrate |...bpm | Sleeping | sleeping |Heartrate |...bpm |
 |50-80 | Sad or Inactive   | Coffee needed| inactive | Need some pizza to cheer you up?| sad |Heartrate |...bpm | Passive | passive |Heartrate |...bpm |
-|80-100| Passive  | Coffee needed | neutral |  Pizza time? | mad/angry/neutral |Heartrate |...bpm | No Activity | no activity |Heartrate |...bpm |          
+|80-100| Passive  | Coffee needed | neutral |  Pizza time? | mad |Heartrate |...bpm | No Activity | no activity |Heartrate |...bpm |          
 |>100  | Physically active | Might skip that coffee | active |Jeej pizzaparty| happy |Heartrate |...bpm | Activity | activity |Heartrate |...bpm |
