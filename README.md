@@ -12,7 +12,7 @@ Following are some Input (BPM) related to some more useful ranges per topic. Als
 
 |INPUT RANGE|OUTPUT USEFUL|Group 2 Caffee|tag|Group 3 Pizza|tag|Group 5 Bodytemp|tag| Group 7 Clock|tag| Other Groups | tag|
 |------| ------|------ | ------|------|------|------|------|-------|------ | ------|------|------|------| 
-|<0    | Dead | Coffee would not help  | - |Pizza will maybe cheer up loved ones| - | Heartrate  |...bpm | Dead, might schedule funeral| Heartrate |...bpm |
+|<0    | Dead  | Coffee would not help  | - |Pizza will maybe cheer up loved ones| - | Heartrate  |...bpm | Dead, might schedule funeral| Heartrate |...bpm |
 |0-30  | Critial health issue  | Call 112 instead of coffee  |- | Call 112 instead of pizza  | - | Heartrate |...bpm | Critial health issue   | Heartrate |...bpm  |
 |30-50 | Sleeping  | Wait for a while, coffee needed soon   | sleeping  |Pizza as breakfast? | sleeping  |Heartrate  |...bpm | Sleeping | sleeping  |Heartrate  |...bpm  | 
 |50-80 | Sad or Inactive   | Coffee needed | inactive   | Need some pizza to cheer you up?   | sad   |Heartrate   |...bpm | Passive  | passive   |  Heartrate |...bpm |
